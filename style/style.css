@@ -133,7 +133,7 @@ footer{
 .box1{
     text-align: center;
     align-items: center; 
-    background-image: url(/images/bk\ khan.jpeg);
+    background-image: url('../images/bk\ khan.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     border: 2px solid green;
@@ -169,7 +169,7 @@ p{
     padding: 10%;
     border: 2px solid red;
     border-radius: 30px;
-    background-image: url(/images/bk\ khan2.jpeg);
+    background-image: url('../images/bk\ khan2.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
